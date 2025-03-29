@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/gusta/OneDrive/Documentos/NetBeansProjects/NobelTechPfroject/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/gusta/OneDrive/Documentos/NetBeansProjects/NobelTechPfroject/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'NobelTechProject Prova1 API'
+-use
+-version
+-windowtitle
+'NobelTechProject Prova1 API'
+trabalho
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\src\main\java = 1733258554922
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\allclasses-index.html = 1733269593210
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\allpackages-index.html = 1733269593215
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\copy.svg = 1733269593268
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\element-list = 1733269593008
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\help-doc.html = 1733269593259
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\index-all.html = 1733269593244
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\index.html = 1733269593252
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\link.svg = 1733269593271
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\member-search-index.js = 1733269593222
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\module-search-index.js = 1733269593217
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\overview-tree.html = 1733269593187
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\package-search-index.js = 1733269593218
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\script.js = 1733269593266
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\search-page.js = 1733269593277
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\search.html = 1733269593249
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\search.js = 1733269593275
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\serialized-form.html = 1733269593133
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\stylesheet.css = 1733269593263
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\tag-search-index.js = 1733269593224
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\NobelTechPfroject\target\reports\apidocs\type-search-index.js = 1733269593220
