@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/gusta/OneDrive/Documentos/NetBeansProjects/estadia/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/gusta/OneDrive/Documentos/NetBeansProjects/estadia/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'estadia Prova1 API'
+-use
+-version
+-windowtitle
+'estadia Prova1 API'
+furb.estadia
+'C:/Users/gusta/OneDrive/Documentos/NetBeansProjects/estadia/src/main/java/quantidadeDias.java'
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\src\main\java\quantidadeDias.java = 1726492480889
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\src\main\java = 1726492480783
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\allclasses-index.html = 1726494713542
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\allpackages-index.html = 1726494713546
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\copy.svg = 1726494713593
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\element-list = 1726494713464
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\help-doc.html = 1726494713584
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\index-all.html = 1726494713569
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\index.html = 1726494713577
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\link.svg = 1726494713595
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\member-search-index.js = 1726494713552
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\module-search-index.js = 1726494713547
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\overview-tree.html = 1726494713529
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\package-search-index.js = 1726494713549
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\script.js = 1726494713590
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\search-page.js = 1726494713600
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\search.html = 1726494713573
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\search.js = 1726494713598
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\serialized-form.html = 1726494713499
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\stylesheet.css = 1726494713588
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\tag-search-index.js = 1726494713554
+C:\Users\gusta\OneDrive\Documentos\NetBeansProjects\estadia\target\reports\apidocs\type-search-index.js = 1726494713550

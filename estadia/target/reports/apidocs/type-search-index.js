@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"furb.estadia","l":"Estadia"},{"p":"furb.estadia","l":"Estadia.Periodo"},{"p":"furb.estadia","l":"TelaEstadia.Periodo"},{"p":"furb.estadia","l":"TelaEstadia"}];updateSearchResults();

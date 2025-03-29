@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestEstadia
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.008 s <<< FAILURE! -- in TestEstadia
+TestEstadia -- Time elapsed: 0.008 s <<< ERROR!
+org.junit.platform.commons.JUnitException: @BeforeAll method 'public void TestEstadia.InicializarSistema()' must be static unless the test class is annotated with @TestInstance(Lifecycle.PER_CLASS).
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1116)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
